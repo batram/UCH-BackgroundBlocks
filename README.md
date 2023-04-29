@@ -1,4 +1,7 @@
-# Background Blocks
+# This mod is now part of [CustomBlocks](https://github.com/batram/UCH-CustomBlocks)
+
+## Background Blocks
+
 This is an `Ultimate Chicken Horse` `BepInEx` mod that allows you place pieces in the background.
 Works with online saves, but background pieces will not appear for users without the mod.
 
